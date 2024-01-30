@@ -1,5 +1,5 @@
 ## Hi there and welcome to InData 👋
-The folowing sections provide you a quick access to the main elements in github.
+The folowing sections provide you a quick access to the main elements of the Indata organisation in github.
 
 
 ## 1. I´m a **software developer** and need access to the latest
