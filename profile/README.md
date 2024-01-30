@@ -2,6 +2,13 @@
 
 
 
+### What do you want to do?
+I want to download the format specification and documentation. [Link]()
+
+I want to submit a change request. [Create and issue](https://github.com/InDataWG/ILCD-EPD-Data-Format/issues)
+
+
+
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
